@@ -1,0 +1,239 @@
+.footer1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 92px;
+}
+.aboutUs,
+.contactUs,
+.learn,
+.support {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 142px;
+}
+.aboutUs,
+.contactUs,
+.support {
+  left: 320px;
+}
+.aboutUs,
+.contactUs {
+  left: 161px;
+}
+.contactUs {
+  left: 488px;
+}
+.footer,
+.footerTags {
+  position: absolute;
+  top: 33px;
+  left: 405px;
+  width: 630px;
+  height: 25px;
+}
+.footer {
+  top: 932px;
+  left: 0;
+  width: 1440px;
+  height: 92px;
+}
+.buttonreviewerloginChild,
+.buttonreviewerloginItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-15xl);
+  background-color: var(--color-darkcyan);
+  width: 370.09px;
+  height: 78.87px;
+}
+.buttonreviewerloginItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+}
+.reviewerLogin {
+  position: absolute;
+  top: 23px;
+  left: 92px;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 205px;
+  height: 35px;
+}
+.buttonreviewerlogin {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 779px;
+  left: 246px;
+  width: 370.09px;
+  height: 78.87px;
+}
+.reviewerLogin1 {
+  position: absolute;
+  top: 23px;
+  left: 59px;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 238px;
+  height: 35px;
+}
+.buttonadminlogin {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 779px;
+  left: 834px;
+  width: 370.09px;
+  height: 78.87px;
+}
+.buttonsignin1,
+.maincontainerChild {
+  position: absolute;
+  border-radius: var(--br-15xl);
+}
+.maincontainerChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 588px;
+  height: 504px;
+}
+.buttonsignin1 {
+  top: calc(50% - 20px);
+  left: calc(50% - 80px);
+  background-color: var(--color-darkcyan);
+  width: 160px;
+  height: 40px;
+  cursor: pointer;
+}
+.buttonsignin,
+.signIn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.signIn {
+  top: calc(50% - 13.51px);
+  left: calc(50% - 76.94px);
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 156.94px;
+  height: 33.51px;
+}
+.buttonsignin {
+  top: 347px;
+  left: 216px;
+  width: 160px;
+  height: 40px;
+}
+.signUp {
+  position: absolute;
+  top: calc(50% - 12.73px);
+  left: calc(50% - 71.85px);
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 144.71px;
+  height: 32.73px;
+}
+.buttonsignup {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 219px;
+  left: 216px;
+  width: 160px;
+  height: 40px;
+}
+.alreadyHaveAn,
+.grepELicensing,
+.newUser {
+  position: absolute;
+  top: 315px;
+  left: 152px;
+  display: inline-block;
+  width: 289px;
+  height: 20px;
+}
+.grepELicensing,
+.newUser {
+  top: 187px;
+  left: 231px;
+  width: 120px;
+}
+.grepELicensing {
+  top: 78px;
+  left: 205px;
+  font-size: 35px;
+  text-align: left;
+  width: 286.66px;
+  height: 30px;
+}
+.appicon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 50px;
+  left: 70px;
+  border-radius: var(--br-15xl);
+  width: 118px;
+  height: 94px;
+  background-image: url(/public/appicon@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.maincontainer {
+  position: absolute;
+  top: 216px;
+  left: 431px;
+  width: 588px;
+  height: 504px;
+}
+.landingPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-josefin-sans);
+}

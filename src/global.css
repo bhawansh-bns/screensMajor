@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-josefin-sans: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-4xl: 23px;
+  --font-size-15xl: 34px;
+  --font-size-6xl: 25px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkcyan: #4a9486;
+  --color-gainsboro: #cbddd1;
+
+  /* border radiuses */
+  --br-15xl: 34px;
+}
