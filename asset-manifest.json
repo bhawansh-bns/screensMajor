@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/screensMajor/static/css/main.87d3a022.css",
+    "main.js": "/screensMajor/static/js/main.49ac6bbf.js",
+    "index.html": "/screensMajor/index.html",
+    "main.87d3a022.css.map": "/screensMajor/static/css/main.87d3a022.css.map",
+    "main.49ac6bbf.js.map": "/screensMajor/static/js/main.49ac6bbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d3a022.css",
+    "static/js/main.49ac6bbf.js"
+  ]
+}
